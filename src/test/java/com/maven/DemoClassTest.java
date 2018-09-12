@@ -12,6 +12,8 @@ public class DemoClassTest {
 		DemoClass demo= new DemoClass();
 		int r = demo.addTwoNumbers(100, 200);
 		assertEquals(300, r);
+		
+		//changes done
 	}
 
 }
