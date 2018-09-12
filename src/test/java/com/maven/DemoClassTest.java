@@ -13,7 +13,7 @@ public class DemoClassTest {
 		int r = demo.addTwoNumbers(100, 200);
 		assertEquals(300, r);
 		
-		//changes do
+		//changes for dev branch
 	}
 
 }
